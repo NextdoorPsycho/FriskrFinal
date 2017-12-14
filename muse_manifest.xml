@@ -1,0 +1,342 @@
+<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="http://www.friskr.science" resolutions="1x" timestamp="1513242790386">
+  <folder name="css">
+    <file name="site_global.css" crc="96963117"/>
+    <file name="sophia-agd.css" crc="85091993" ref="sophia-agd"/>
+    <file name="index.css" crc="4037120459" ref="index"/>
+    <file name="iefonts_index.css" crc="3893886097" ref="index"/>
+    <file name="pictured-dog.css" crc="205346788" ref="pictured-dog"/>
+    <file name="pictures-cat.css" crc="3799593402" ref="pictures-cat"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="phone>index:phone>untitled-2:phone>untitled-3:tablet>index:index:pictures-cat:pictured-dog:sophia-agd"/>
+    <file name="museutils.js" crc="3803043152" ref="phone>index:phone>untitled-2:phone>untitled-3:tablet>index:index:pictures-cat:pictured-dog:sophia-agd"/>
+    <file name="whatinput.js" crc="86476730" ref="phone>index:phone>untitled-2:phone>untitled-3:tablet>index:index:pictures-cat:pictured-dog:sophia-agd"/>
+    <file name="museconfig.js" crc="4153641093" ref="phone>index:phone>untitled-2:phone>untitled-3:tablet>index:index:pictures-cat:pictured-dog:sophia-agd"/>
+    <file name="jquery.watch.js" crc="99325471" ref="phone>index:phone>untitled-2:phone>untitled-3:tablet>index:index:pictures-cat:pictured-dog:sophia-agd"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4148998990" ref="phone>index:tablet>index"/>
+    <file name="webpro.js" crc="242022427" ref="phone>index:tablet>index:index"/>
+    <file name="form_check.php" crc="147359589" ref="phone>index"/>
+    <file name="form_throttle.php" crc="93986428" ref="phone>index"/>
+    <file name="form_process.php" crc="3851993751" ref="phone>index"/>
+    <file name="form-u5733.php" crc="72757938" ref="phone>index"/>
+    <file name="require.js" crc="4157109226" ref="phone>index:phone>untitled-2:phone>untitled-3:tablet>index:index:pictures-cat:pictured-dog:sophia-agd"/>
+    <file name="form-u7491.php" crc="231167141" ref="tablet>index"/>
+    <file name="musewpslideshow.js" crc="457073769" ref="tablet>index:index"/>
+    <file name="jquery.museoverlay.js" crc="483674903" ref="tablet>index:index"/>
+    <file name="touchswipe.js" crc="4066113679" ref="tablet>index:index"/>
+    <file name="form-u5297.php" crc="150221383" ref="tablet>index"/>
+    <file name="form-u2691.php" crc="209876761" ref="index"/>
+    <file name="form-u3177.php" crc="358700729" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="branding.png" crc="4293309447" seo="true" ref="phone>index:tablet>index:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="design.png" crc="4137836799" seo="true" ref="phone>index:tablet>index:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="seo.png" crc="392808605" seo="true" ref="phone>index:tablet>index:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pasted image 419x397.jpg" crc="4021947856" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pasted image 175x232.jpg" crc="4237827649" ref="phone>index:tablet>index:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pasted image 175x2322.jpg" crc="4195467414" ref="phone>index:tablet>index:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="image4-u5782-fr.jpg" crc="3923300303" ref="phone>index"/>
+    <file name="image2-u5783-fr.jpg" crc="3975197988" ref="phone>index"/>
+    <file name="image3-u5784-fr.jpg" crc="4108715087" ref="phone>index"/>
+    <file name="jamesdoe.jpg" crc="403037988" ref="phone>index:tablet>index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="janetdoe.jpg" crc="513560085" ref="phone>index:tablet>index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u5718.png" crc="123626080" ref="phone>index"/>
+    <file name="u5718-r.png" crc="427390108" ref="phone>index"/>
+    <file name="u5720.png" crc="85681999" ref="phone>index"/>
+    <file name="u5720-r.png" crc="4270148701" ref="phone>index"/>
+    <file name="u5722.png" crc="4276272541" ref="phone>index"/>
+    <file name="u5722-r.png" crc="60223322" ref="phone>index"/>
+    <file name="u5724.png" crc="89517057" ref="phone>index"/>
+    <file name="u5724-r.png" crc="213667977" ref="phone>index"/>
+    <file name="u5726.png" crc="221620630" ref="phone>index"/>
+    <file name="u5726-r.png" crc="347128498" ref="phone>index"/>
+    <file name="u5728.png" crc="3862527766" ref="phone>index"/>
+    <file name="u5728-r.png" crc="4129255785" ref="phone>index"/>
+    <file name="u5730.png" crc="3979239115" ref="phone>index"/>
+    <file name="u5730-r.png" crc="4198659892" ref="phone>index"/>
+    <file name="pasted image 1276x745.jpg" crc="3972003781" seo="true" ref="tablet>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="development.png" crc="3825955620" seo="true" ref="tablet>index:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="image4-u5428-fr.jpg" crc="3773068500" ref="tablet>index"/>
+    <file name="image2-u5444-fr.jpg" crc="379818459" ref="tablet>index"/>
+    <file name="image3-u5445-fr.jpg" crc="451651046" ref="tablet>index"/>
+    <file name="u5282.png" crc="237097593" ref="tablet>index"/>
+    <file name="u5282-r.png" crc="278598571" ref="tablet>index"/>
+    <file name="u5284.png" crc="3835012961" ref="tablet>index"/>
+    <file name="u5284-r.png" crc="427453210" ref="tablet>index"/>
+    <file name="u5286.png" crc="4119944699" ref="tablet>index"/>
+    <file name="u5286-r.png" crc="321456869" ref="tablet>index"/>
+    <file name="u5288.png" crc="406387937" ref="tablet>index"/>
+    <file name="u5288-r.png" crc="338771346" ref="tablet>index"/>
+    <file name="u5290.png" crc="10995563" ref="tablet>index"/>
+    <file name="u5290-r.png" crc="3821930293" ref="tablet>index"/>
+    <file name="u5292.png" crc="4080000022" ref="tablet>index"/>
+    <file name="u5292-r.png" crc="59429556" ref="tablet>index"/>
+    <file name="u5294.png" crc="3851209329" ref="tablet>index"/>
+    <file name="u5294-r.png" crc="146870850" ref="tablet>index"/>
+    <file name="pasted image 1391x794.jpg" crc="449146556" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="responsive.png" crc="3841902940" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pasted image 396x389.jpg" crc="4267030850" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="capture.jpg" crc="4106017408" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="20170823_205929-crop-u7815.jpg" crc="3989581449" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="blank.gif" crc="4208392903" ref="index"/>
+    <file name="display_thumbnail (8).jpg" crc="4223996828" seo="true" ref="index:pictures-cat">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="pictures-cat" alt=""/>
+    </file>
+    <file name="display_thumbnail (9).jpg" crc="309132371" seo="true" ref="index:pictures-cat">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="pictures-cat" alt=""/>
+    </file>
+    <file name="display_thumbnail (10).jpg" crc="4090413374" seo="true" ref="index:pictures-cat">
+      <caption webpage="index" alt=""/>
+      <caption webpage="pictures-cat" alt=""/>
+    </file>
+    <file name="display_thumbnail (11).jpg" crc="391824055" seo="true" ref="index:pictures-cat">
+      <caption webpage="index" alt=""/>
+      <caption webpage="pictures-cat" alt=""/>
+    </file>
+    <file name="img_3756.jpg" crc="234777953" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_3758.jpg" crc="3902971763" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_3762.jpg" crc="165747222" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_3763.jpg" crc="3778962484" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="display_thumbnail (7).jpg" crc="3980588844" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="display_thumbnail (12).jpg" crc="3830831672" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="display_thumbnail (13).jpg" crc="3780428139" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="display_thumbnail (14).jpg" crc="38374530" seo="true" ref="index:pictures-cat">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="pictures-cat" alt=""/>
+    </file>
+    <file name="20170823_205929-crop-u7823.jpg" crc="3825751102" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="display_thumbnail (10)-crop-u8580.jpg" crc="115041556" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="display_thumbnail (11)-crop-u8600.jpg" crc="3973920044" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_375660x45.jpg" crc="4239441510" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_375860x45.jpg" crc="404275663" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_376260x45.jpg" crc="51048574" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_376360x45.jpg" crc="445652714" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="display_thumbnail (7)-crop-u8700.jpg" crc="3768225351" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="display_thumbnail (12)-crop-u8720.jpg" crc="3894149714" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="loading.gif" crc="3815509949" ref="index"/>
+    <file name="crossbrowser-u2944.png" crc="485010383" ref="index"/>
+    <file name="pasted image 243x107.jpg" crc="4142758086" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pasted image 223x158.jpg" crc="4226065670" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pasted image 500x330.jpg" crc="400028237" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pasted image 185x53.jpg" crc="284220053" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pasted image 212x120.jpg" crc="527899575" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="2.png" crc="522505926" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="3.png" crc="3763281759" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="5.png" crc="280699444" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="1.png" crc="4250864551" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="4.png" crc="491384258" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="6.png" crc="104465539" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u3161.png" crc="237097593" ref="index"/>
+    <file name="u3161-r.png" crc="278598571" ref="index"/>
+    <file name="u3163.png" crc="3835012961" ref="index"/>
+    <file name="u3163-r.png" crc="427453210" ref="index"/>
+    <file name="u3165.png" crc="4119944699" ref="index"/>
+    <file name="u3165-r.png" crc="321456869" ref="index"/>
+    <file name="u3167.png" crc="406387937" ref="index"/>
+    <file name="u3167-r.png" crc="338771346" ref="index"/>
+    <file name="u3169.png" crc="10995563" ref="index"/>
+    <file name="u3169-r.png" crc="3821930293" ref="index"/>
+    <file name="u3171.png" crc="4080000022" ref="index"/>
+    <file name="u3171-r.png" crc="59429556" ref="index"/>
+    <file name="u3173.png" crc="3851209329" ref="index"/>
+    <file name="u3173-r.png" crc="146870850" ref="index"/>
+    <file name="img_74660.png" crc="3965481016" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="display_thumbnail (1).jpg" crc="405493143" seo="true" ref="pictures-cat">
+      <caption webpage="pictures-cat" alt=""/>
+    </file>
+    <file name="display_thumbnail (3).jpg" crc="464449779" seo="true" ref="pictures-cat">
+      <caption webpage="pictures-cat" alt=""/>
+    </file>
+    <file name="display_thumbnail (6).jpg" crc="336848821" seo="true" ref="pictures-cat">
+      <caption webpage="pictures-cat" alt=""/>
+    </file>
+    <file name="display_thumbnail.jpg" crc="273169142" seo="true" ref="pictures-cat">
+      <caption webpage="pictures-cat" alt=""/>
+    </file>
+    <file name="display_thumbnail (2).jpg" crc="250052156" seo="true" ref="pictures-cat">
+      <caption webpage="pictures-cat" alt=""/>
+    </file>
+    <file name="display_thumbnail (4).jpg" crc="3821149265" seo="true" ref="pictures-cat">
+      <caption webpage="pictures-cat" alt=""/>
+    </file>
+    <file name="img_3763189x142.jpg" crc="174529399" seo="true" ref="pictures-cat">
+      <caption webpage="pictures-cat" alt=""/>
+    </file>
+    <file name="img_3756205x154.jpg" crc="3931932806" seo="true" ref="pictures-cat">
+      <caption webpage="pictures-cat" alt=""/>
+    </file>
+    <file name="img_3762205x154.jpg" crc="4225763570" seo="true" ref="pictures-cat">
+      <caption webpage="pictures-cat" alt=""/>
+    </file>
+    <file name="20170823_205929117x156.jpg" crc="143639084" seo="true" ref="pictures-cat">
+      <caption webpage="pictures-cat" alt=""/>
+    </file>
+    <file name="img_3758201x151.jpg" crc="42933449" seo="true" ref="pictures-cat">
+      <caption webpage="pictures-cat" alt=""/>
+    </file>
+    <file name="pasted image 1182x870.jpg" crc="4063141210" seo="true" ref="pictures-cat">
+      <caption webpage="pictures-cat" alt=""/>
+    </file>
+    <file name="pasted image 200x266.jpg" crc="520975827" seo="true" ref="pictured-dog">
+      <caption webpage="pictured-dog" alt=""/>
+    </file>
+    <file name="pasted image 200x163.jpg" crc="64299467" seo="true" ref="pictured-dog">
+      <caption webpage="pictured-dog" alt=""/>
+    </file>
+    <file name="pasted image 200x141.jpg" crc="491277700" seo="true" ref="pictured-dog">
+      <caption webpage="pictured-dog" alt=""/>
+    </file>
+    <file name="pasted image 200x213.jpg" crc="37585879" seo="true" ref="pictured-dog">
+      <caption webpage="pictured-dog" alt=""/>
+    </file>
+    <file name="pasted image 200x316.jpg" crc="4035428127" seo="true" ref="pictured-dog">
+      <caption webpage="pictured-dog" alt=""/>
+    </file>
+    <file name="pasted image 200x365.jpg" crc="4063922044" seo="true" ref="pictured-dog">
+      <caption webpage="pictured-dog" alt=""/>
+    </file>
+    <file name="107303-200.png" crc="3948884611" seo="true" ref="pictured-dog">
+      <caption webpage="pictured-dog" alt=""/>
+      <caption webpage="pictured-dog" alt=""/>
+      <caption webpage="pictured-dog" alt=""/>
+      <caption webpage="pictured-dog" alt=""/>
+      <caption webpage="pictured-dog" alt=""/>
+      <caption webpage="pictured-dog" alt=""/>
+    </file>
+    <file name="pasted image 1182x8702.jpg" crc="4063141210" seo="true" ref="pictured-dog">
+      <caption webpage="pictured-dog" alt=""/>
+    </file>
+  </folder>
+  <folder name="tablet">
+    <folder name="css">
+      <file name="master_a-master.css" crc="579573" ref="tablet>index"/>
+      <file name="index.css" crc="94397261" ref="tablet>index"/>
+      <file name="iefonts_index.css" crc="374428943" ref="tablet>index"/>
+    </folder>
+    <file name="index.html" crc="106536889" seo="true" mt="1511941406997" redirect="true"/>
+  </folder>
+  <folder name="phone">
+    <folder name="css">
+      <file name="master_a-master.css" crc="4073997405" ref="phone>untitled-2:phone>untitled-3:phone>index"/>
+      <file name="untitled-2.css" crc="4104077043" ref="phone>untitled-2"/>
+      <file name="untitled-3.css" crc="4104077043" ref="phone>untitled-3"/>
+      <file name="index.css" crc="365364613" ref="phone>index"/>
+      <file name="iefonts_index.css" crc="94081251" ref="phone>index"/>
+    </folder>
+    <file name="index.html" crc="3888672119" seo="true" mt="1511939331842" redirect="true"/>
+    <file name="untitled-2.html" crc="4281092219" seo="true" mt="1513233892502" redirect="true"/>
+    <file name="untitled-3.html" crc="53688371" seo="true" mt="1513233901126" redirect="true"/>
+  </folder>
+  <file name="index.html" crc="3836808757" seo="true" mt="1513240755096" redirect="true"/>
+  <file name="pictures-cat.html" crc="4196554692" seo="true" mt="1513240428547" redirect="true"/>
+  <file name="pictured-dog.html" crc="3914982252" seo="true" mt="1513240687551" redirect="true"/>
+  <file name="sophia-agd.html" crc="3814588474" seo="true" mt="1513236125725" redirect="false"/>
+</manifest>
